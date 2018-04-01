@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Escola Senac</string>
+    <string name="activityTitulo_Aluno">Alunos</string>
+    <string name="activityTitulo_Curso">Cursos</string>
+    <string name="activityTitulo_AlunoCurso_Cadastrar">Cadastrar</string>
+
+</resources>
