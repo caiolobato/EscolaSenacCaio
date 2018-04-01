@@ -24,12 +24,12 @@ import pa.senac.br.escolasenaccaio.dao.AlunoDAO;
 import pa.senac.br.escolasenaccaio.modelo.Aluno;
 
 public class AlunoActivity extends AppCompatActivity {
-
+//aaaaa
     ListView listViewAluno;
     FloatingActionButton botaoCadastrar;
     List<Aluno> listaDeAlunos;
     AlunoDAO alunoDAO;
-
+    int i;
     Aluno aluno; // virou global pra usar lá no dialog
 
     protected void botaoCadastrar(View view) {
