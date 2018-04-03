@@ -11,13 +11,13 @@ public class MainActivity extends AppCompatActivity {
 
     ImageButton alunos,cursos;
 
-    protected void botaoAluno (View view) {
+    public void botaoAluno (View view) {
         Intent intent = new Intent(this,AlunoActivity.class);
         startActivity(intent);
     }
 
 
-    protected void botaoCurso (View view) {
+    public void botaoCurso (View view) {
         Intent intent = new Intent(this,CursoActivity.class);
         startActivity(intent);
     }
